@@ -1,7 +1,7 @@
-# COMPTE-RENDU DE REUNION
+# COMPTE RENDU DE REUNION
 ## Ordre du jour :
 
-- Une réunion avec le CNMH a été tenue à Centre Solicode le 14/11/2023 à 15:00, portant sur la digitalisation d'une application de gestion pour le CNMH.
+- Une Sprint Review   a été tenue à Centre Solicode avec le CNMH le 14/11/2023 à 15:00, portant sur la digitalisation d'une application de gestion pour le CNMH.
 
  ### Personnes présentes:
 1- Personnel du CNMH :
@@ -23,3 +23,6 @@
 - Grain Reda
 - Sarsri Imrane
 - Bakklai Mohammed
+
+- Heure de fin de réunion: 14:30
+ - Date de la prochaine réunion: 21/11/2023
