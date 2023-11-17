@@ -20,6 +20,7 @@
 - Grain Reda
 - Sarsri Imrane
 - Assaid Amina
+## Détails de la Réunion
 
 * Heure de fin de réunion: 14h30
 * Date de la prochaine réunion: 21/11/2023
