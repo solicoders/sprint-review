@@ -9,20 +9,17 @@
 
 2- Personnel de  Centre Solicode :
 - Fouad ESSARAJ
-- Adnan Tebaa
-- Assaid Amina
 - Betroji Jalil
 - Daifane Yasmine 
 - Faiz Safaa
 - Bouik Hussein
 - Zaani Hamza
 - Lamchatab Amine
-- Achaou Hamid
 - Boukhar Soufiane
 - Lharrak Adnan
 - Grain Reda
 - Sarsri Imrane
-- Bakklai Mohammed
+- Assaid Amina
 
 - Heure de fin de réunion: 14:30
  - Date de la prochaine réunion: 21/11/2023
