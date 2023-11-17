@@ -21,5 +21,5 @@
 - Sarsri Imrane
 - Assaid Amina
 
-- Heure de fin de réunion: 14:30
- - Date de la prochaine réunion: 21/11/2023
+* Heure de fin de réunion: 14h30
+* Date de la prochaine réunion: 21/11/2023
