@@ -1,26 +1,24 @@
-# COMPTE RENDU DE REUNION
+# COMPTE RENDU DE RÉUNION
+
 ## Ordre du jour :
 
-- Une Sprint Review   a été tenue à Centre Solicode avec le CNMH le 14/11/2023 à 15:00, portant sur la digitalisation d'une application de gestion pour le CNMH.
+- Une Sprint Review a été tenue à Centre Solicode avec le CNMH le 14/11/2023 à 15:00, portant sur la digitalisation d'une application de gestion pour le CNMH. La réunion a pris fin à 16h30.
 
- ### Personnes présentes:
-1- Personnel du CNMH :
-- SERGHINI Fatima avec sa sttaf
+### Personnes présentes:
+1. Personnel du CNMH :
+   - SERGHINI Fatima
+   - Employé 1
+   - Employé 2
+   - Employé 3
+   - Employé 4
 
-2- Personnel de  Centre Solicode :
-- Fouad ESSARAJ
-- Betroji Jalil
-- Daifane Yasmine 
-- Faiz Safaa
-- Bouik Hussein
-- Zaani Hamza
-- Lamchatab Amine
-- Boukhar Soufiane
-- Lharrak Adnan
-- Grain Reda
-- Sarsri Imrane
-- Assaid Amina
+2. Personnel de Centre Solicode :
+   - Fouad ESSARAJ
+   - Assaid Amina
+   - Betroji Jalil
+   - Daifane Yasmine
+   - Boukhar Soufiane
+
 ## Détails de la Réunion
 
-* Heure de fin de réunion: 14h30
-* Date de la prochaine réunion: 21/11/2023
+- Date de la prochaine réunion: 20/11/2023
