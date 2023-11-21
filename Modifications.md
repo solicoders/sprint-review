@@ -68,10 +68,10 @@
 
 2. Médecin Générale
 
-- Médecin Générale button d'ajouter pas valide :
+- Médecin Générale : Dossier bénéficiaire :
 
 ![Médecin Générale button d'ajouter](imgs/MGModification1.png)
 
-- Médecin Générale button modifier / supprimer :
+- Médecin Générale : Consultations :
 
 ![Médecin Générale button modifier / supprimer](imgs/MGModification2.png)
