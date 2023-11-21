@@ -23,16 +23,16 @@
 
     - Le tuteur peut être une personne physique ou morale.
 
-    - Nécessité d'exister le lien  parental
+    - Nécessité d'exister le lien  parental .
 
     - Les parents doivent être identifiés avec leur nom et prénom.
 ![Service social ajouter dossier tuteur](imgs/SerSocModification3.PNG)
 
 - Service social dans barre du bénificiaire :
 
-    - Changer le terme "Patient" à "Bénéficiaire"
+    - Changer le terme "Patient" à "Bénéficiaire" .
 
-    - Ajouter une barre oblique dans le dossier du bénéficiaire
+    - Ajouter une barre oblique dans le dossier du bénéficiaire .
 ![Service social ajouter dossier tuteur](imgs/SerSocModification4.PNG)
 
 - Service social dans ajouter dossier bénéficiaire  :
@@ -80,22 +80,22 @@
 
 - Médecin Généraliste: Liste des dossiers de bénéficiaires :
     - N'a pas le droit d'ajouter un dossier bénéficiaire.
-    - Doit choisir et ajouter une fonction de filtrage 
-    - Dossier medicale sa sera modifié par la médecine seulement
-    - ajouter fuction de scanner les dossiers
-    -  Générer statistique  ( voire les  commission , bilan )
+    - Doit choisir et ajouter une fonction de filtrage .
+    - Dossier medicale sa sera modifié par la médecine seulement .
+    - ajouter fuction de scanner les dossiers .
+    -  Générer statistique  ( voire les  commission , bilan ) .
 ![Médecin Générale Dossiers bénéficiare](imgs/MGModification1.PNG)
 
 - Médecin Généraliste : formulaire de planification d'un rendez-vous :
     - La date d'enregistrement ne sera pas modifiable .
     - Pour le diagnostic, commencez d'abord par un diagnostic général, puis, à la fin, ajoutez le diagnostic final.
     -  La phase de diagnostic devrait être une liste déroulante.
-    - Possibilité de choisir plusieurs types de handicap pour une seule personne
+    - Possibilité de choisir plusieurs types de handicap pour une seule personne .
 
 ![Médecin Générale planification d'un rendez-vous](imgs/MGModification2.PNG)
 
 - Médecin Généraliste :Consultations médecin générale:
-    - Ajouter la fonction de modification
+    - Ajouter la fonction de modification .
 
 ![Médecin Générale planification d'un rendez-vous](imgs/MGModification3.png)
 
