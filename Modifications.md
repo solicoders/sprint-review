@@ -2,11 +2,11 @@
 # les modifications 
 1. Service Social :
 
-- Service Social : dossier bénéficiare interface :
+- Service Social : dossier bénéficiare  :
 
     - ”Bouton d'ajouter” éditer syntaxe de phrase.
 
-    - Intégrer "Bouton éditer" dans le champ "action" du dossier patient.
+    - Intégrer "Bouton éditer" dans le champ "action" du dossier bénéficiare.
 
 
 ![Service social dossier patient interface](imgs/SerSocModification1.PNG)
@@ -35,16 +35,16 @@
     - Ajouter une barre oblique dans le dossier du bénéficiaire 
 ![Service social ajouter dossier tuteur](imgs/SerSocModification4.PNG)
 
-- Service social dans ajouter dossier bénéficiaire  :
+- Service social : dossier bénéficiaire, barre tuteur formulaire :
 
     - Les champs Téléphone, CIN, EMAIL, image, tuteur, association sont obligatoires, et les champs obligatoires sont marqués par un astérisque (*)
 
     - Ajouer champs CNE et association
 
-![Service social ajouter dossier patient input optionnelle](imgs/SerSocModification5.png)
+![Service social dossier bénéficiaire ](imgs/SerSocModification5.png)
 
 
-- Service social : ajouter un dossier bénéficiaire dans la barre d'entretien social
+- "Service social : dossier bénéficiaire, barre entretien social formulaire :
 
     - Le numéro de dossier devrait s'auto-incrémenter.
 
