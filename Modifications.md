@@ -14,6 +14,8 @@
 - Service Social : Dossier Bénificiaire barre du tuteur :
 
     - Changer le terme "Patient" à "Bénéficiaire" dans tous l’applications.
+    - Les parents doivent être identifiés avec leur nom et prénom.
+
 
 ![Service social dossier nav](imgs/SerSocModification2.PNG)
 
@@ -25,14 +27,13 @@
 
     - Nécessité d'exister le lien  parental .
 
-    - Les parents doivent être identifiés avec leur nom et prénom.
 ![Service social ajouter dossier tuteur](imgs/SerSocModification3.PNG)
 
 - Service social dans barre du bénificiaire :
 
     - Changer le terme "Patient" à "Bénéficiaire" .
 
-    - Ajouter une barre oblique dans le dossier du bénéficiaire 
+    - Ajouter une barre parents dans le dossier du bénéficiaire 
 ![Service social ajouter dossier tuteur](imgs/SerSocModification4.PNG)
 
 - Service social : dossier bénéficiaire, barre tuteur formulaire :
