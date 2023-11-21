@@ -9,13 +9,13 @@
     - Intégrer "Bouton éditer" dans le champ "action" du dossier patient.
 
 
-![Service social dossier patient interface](imgs/SerSocModification1.png)
+![Service social dossier patient interface](imgs/SerSocModification1.PNG)
 
 - Service Social : Dossier Bénificiaire barre du tuteur :
 
     - Changer le terme "Patient" à "Bénéficiaire" dans tous l’applications.
 
-![Service social dossier nav](imgs/SerSocModification2.png)
+![Service social dossier nav](imgs/SerSocModification2.PNG)
 
 - Service Social : Dossier Bénificiaire barre du tuteur :
 
@@ -26,14 +26,14 @@
     - Nécessité d'exister le lien  parental
 
     - Les parents doivent être identifiés avec leur nom et prénom.
-![Service social ajouter dossier tuteur](imgs/SerSocModification3.png)
+![Service social ajouter dossier tuteur](imgs/SerSocModification3.PNG)
 
 - Service social dans barre du bénificiaire :
 
     - Changer le terme "Patient" à "Bénéficiaire"
 
     - Ajouter une barre oblique dans le dossier du bénéficiaire
-![Service social ajouter dossier tuteur](imgs/SerSocModification4.png)
+![Service social ajouter dossier tuteur](imgs/SerSocModification4.PNG)
 
 - Service social dans ajouter dossier bénéficiaire  :
 
@@ -84,7 +84,7 @@
     - Dossier medicale sa sera modifié par la médecine seulement
     - ajouter fuction de scanner les dossiers
     -  Générer statistique  ( voire les  commission , bilan )
-![Médecin Générale Dossiers bénéficiare](imgs/MGModification1.png)
+![Médecin Générale Dossiers bénéficiare](imgs/MGModification1.PNG)
 
 - Médecin Généraliste : formulaire de planification d'un rendez-vous :
     - La date d'enregistrement ne sera pas modifiable .
@@ -92,7 +92,7 @@
     -  La phase de diagnostic devrait être une liste déroulante.
     - Possibilité de choisir plusieurs types de handicap pour une seule personne
 
-![Médecin Générale planification d'un rendez-vous](imgs/MGModification2.png)
+![Médecin Générale planification d'un rendez-vous](imgs/MGModification2.PNG)
 
 - Médecin Généraliste :Consultations médecin générale:
     - Ajouter la fonction de modification
