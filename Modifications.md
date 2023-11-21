@@ -43,6 +43,7 @@
 
 ![Service social ajouter dossier patient input optionnelle](imgs/SerSocModification5.PNG)
 
+
 - Service social : ajouter un dossier bénéficiaire dans la barre d'entretien social
 
     - Le numéro de dossier devrait s'auto-incrémenter.
@@ -63,6 +64,7 @@
 ![Service social liste d'attente](imgs/SerSocModification7.png)
 
 - Service social liste d'attente :
+    - 
 
 ![Service social liste d'attente](imgs/SerSocModification7.png)
 
