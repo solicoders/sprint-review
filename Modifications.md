@@ -32,7 +32,7 @@
 
     - Changer le terme "Patient" à "Bénéficiaire" .
 
-    - Ajouter une barre oblique dans le dossier du bénéficiaire .
+    - Ajouter une barre oblique dans le dossier du bénéficiaire 
 ![Service social ajouter dossier tuteur](imgs/SerSocModification4.PNG)
 
 - Service social dans ajouter dossier bénéficiaire  :
