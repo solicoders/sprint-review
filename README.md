@@ -15,7 +15,7 @@ Dans cette revue de sprint, nous mettrons en avant les fonctionnalités impléme
   
 ## Sprint review 1 et 2 
 <!-- TODO : Lien Markdown incorrect : voir lab-markdown -->
-- [Modifications](https://github.com/Yasmine-daifane/sprint-review/blob/main/Modifications.md)
-- [CompteRenduRéunion](https://github.com/Yasmine-daifane/sprint-review/blob/main/CompteRendueR%C3%A9union.md)
+- [Modifications](Sprint-1-2/Rapport/Modifications.md)
+- [CompteRenduRéunion](Sprint-1-2/Rapport/CompteRendueRéunion.md)
 
 ## Sprint review 3
