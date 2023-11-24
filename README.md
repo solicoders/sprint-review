@@ -1,21 +1,20 @@
 # sprint-review
 
-<!-- TODO : Ajouter un répertoire : Présentation-Sprint-review-2 qui contient les images et le lien vers la présentation  -->
-
 <!-- TODO : Correction des remarques sur les slides -->
 
 ## Introduction
-<!-- TODO : à refaire le style d'écriture -->
-Dans cette revue de sprint, nous mettrons en avant les fonctionnalités implémentées et aborderons les ajustements nécessaires identifiés lors de la réunion. Réfléchissons ensemble à nos réalisations et discutons de la feuille de route pour garantir que notre application continue de répondre et de dépasser les attentes fixées par le CNMH
 
-- Mettre en avant les fonctionnalités implémentées.
-- Aborder les ajustements basés sur les insights de la réunion.
-- Réfléchir collectivement sur nos réalisations.
-- Discuter de la feuille de route pour dépasser les attentes du CNMH.
+Dans cette revue de sprint, on va d'abord parler des nouvelles choses qu'on a ajoutées à l'application. 
+
+Ensuite, on va discuter des petits changements qu'on doit faire en se basant sur ce qu'on a appris lors de la réunion. 
+
+Ensuite, on va réfléchir tous ensemble sur ce qu'on a accompli jusqu'à présent. 
+
+Enfin, on va discuter du plan à suivre pour s'assurer que notre application reste super et continue de dépasser ce que le CNMH attend.
   
 ## Sprint review 1 et 2 
-<!-- TODO : Lien Markdown incorrect : voir lab-markdown -->
-- [Modifications](https://github.com/Yasmine-daifane/sprint-review/blob/main/Modifications.md)
-- [CompteRenduRéunion](https://github.com/Yasmine-daifane/sprint-review/blob/main/CompteRendueR%C3%A9union.md)
+
+- [Modifications](Sprint-1-2/Rapport/Modifications.md)
+- [CompteRenduRéunion](Sprint-1-2/Rapport/CompteRendueRéunion.md)
 
 ## Sprint review 3

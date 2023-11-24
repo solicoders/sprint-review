@@ -1,31 +1,30 @@
 
-# les modifications 
+# Modifications 
 1. Service Social :
 
 - Service Social : dossier bénéficiare  :
+  -  Bouton ajouter :
+     -  il faut corriger la phrase .
 
-    - ”Bouton d'ajouter” éditer syntaxe de phrase.
-
-    - Intégrer "Bouton éditer" dans le champ "action" du dossier bénéficiare.
+  - Intégrer "Bouton éditer" dans le champ "action" du dossier bénéficiare.
 
 
 ![Service social dossier patient interface](imgs/SerSocModification1.PNG)
 
-- Service Social : Dossier Bénificiaire barre du tuteur :
+- Service Social : 
 
     - Changer le terme "Patient" à "Bénéficiaire" dans tous l’applications.
-    - Les parents doivent être identifiés avec leur nom et prénom.
 
 
 ![Service social dossier nav](imgs/SerSocModification2.PNG)
 
-- Service Social : Dossier Bénificiaire barre du tuteur :
+- Service Social :
 
-    - Manque la barre de progression.
+    - Manque de la barre de progression.
 
     - Le tuteur peut être une personne physique ou morale.
 
-    - Nécessité d'exister le lien  parental .
+    - Spécifier le lien de parenté .
 
 ![Service social ajouter dossier tuteur](imgs/SerSocModification3.PNG)
 
@@ -33,7 +32,8 @@
 
     - Changer le terme "Patient" à "Bénéficiaire" .
 
-    - Ajouter une barre parents dans le dossier du bénéficiaire 
+    - Ajouter la saiser de parent . 
+
 ![Service social ajouter dossier tuteur](imgs/SerSocModification4.PNG)
 
 - Service social : dossier bénéficiaire, barre tuteur formulaire :
@@ -77,7 +77,7 @@
 ![Service social Rendez-vous](imgs/SerSocModification9.png)
 
 
-2. Médecin Générale
+1. Médecin Générale
 
 - Médecin Généraliste: Liste des dossiers de bénéficiaires :
     - N'a pas le droit d'ajouter un dossier bénéficiaire.
